@@ -2,7 +2,7 @@
 
 # Tämä on koulutehtävien verkkosivusto Tieto- ja viestintätekniikan perustutkinto-ohjelmaa varten
 
-## Etusivu.html
+## index.html
 
 Tämä on verkkosivuston etusivu. Se tarjoaa tietoa Tieto- ja viestintätekniikan perustutkinto-ohjelmasta, mukaan lukien hankitut taidot ja valmistuneiden työroolit.
 
@@ -33,7 +33,7 @@ Lisätietoja tai tiedusteluja varten, ole hyvä ja tutustu Esedun verkkosivustoo
 
 ## Sivut
 
-- [Etusivu.html](Etusivu.html): Verkkosivuston etusivu.
+- [index.html](index.html): Verkkosivuston etusivu.
 - [Tutkinnon_rakenne.html](Tutkinnon_rakenne.html): Tietoa tutkinnon rakenteesta.
 - [Tutkinnonosat.html](Tutkinnonosat.html): Tiedot tutkinnon eri osista.
 - [Kriteerit.html](Kriteerit.html): Arviointikriteerit.
